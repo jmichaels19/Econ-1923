@@ -236,7 +236,18 @@
 	  "place of birth" : "Bridgeport, Connecticut",
 	  "grammy awards" : 7,
 	  "associates" : "Dead and Company",
-  }
+  },
+
+   "Wayne" : {
+	"full name" : "Wayne Gretzky",
+	"born" : 1961,
+	"place of birth" : "Brantford, Canada",
+	"sport" : "ice hockey",
+	"team" : "Edmonton Oilers",
+	"Stanley Cup Winner" : true,
+	"height_inches" : 72
+	"number" : 99   
+   }
 	  
 }
     
